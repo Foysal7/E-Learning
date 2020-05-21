@@ -1,0 +1,21 @@
+Admin
+
+Username:admin
+Password: admin
+
+Teacher
+
+Username:ashh
+Password: 123456
+
+
+Username:foysal51
+Password: 123456
+
+Student
+
+Username:foysal
+Password: 123456
+
+Username:ashfaq
+Password: 12345678
